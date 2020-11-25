@@ -1,0 +1,44 @@
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - README.md
+  - 3. References, Recursion, and Lists.md
+  - 4. SLLists, Nested Classes, Sentinel Nodes.md
+  - 5. DLLists, Arrays.md
+  - 6. ALists, Resizing, vs. SLists.md
+  - 7. Testing.md
+  - 8. Inheritance, Implements.md
+  - 9. Extends, Casting, Higher Order Functions.md
+  - 10. Subtype Polymorphism vs. HoFs.md
+  - 11. Exceptions, Iterators, Iterables.md
+  - 12. Coding in the Real World, Review.md
+  - 13. Asymptotics I.md
+  - 14. Disjoint Sets.md
+  - 15. Asymptotics II.md
+  - 16. ADTs, Sets, Maps, BSTs.md
+  - 17. B-Trees (2-3, 2-3-4 Trees).md
+  - 18. Red Black Trees.md
+  - 19. Range Searching and Multi-Dimensional Data.md
+  - 20. Hashing.md
+  - 21. Heaps, PQs.md
+  - 22. Tries.md
+  - 23. Tree and Graph Traversals.md
+  - 24. Graph Traversals and Implementations.md
+  - 25. Shortest Paths.md
+  - 26. Minimum Spanning Trees, Kruskal's, Prim's.md
+  - 27. SWE I.md
+  - 28. Reductions & Decompositions.md
+  - 29. Basic Sorts.md
+  - 30. Quick Sort.md
+  - 31. Software Engineering II.md
+  - 32. More Quick Sort, Sorting Summary.md
+  - 33. Software Engineering III.md
+  - 34. Sorting and Algorithmic Bounds.md
+  - 35. Radix Sorts.md
+  - 36. Sorting and Data Structures Conclusion.md
+  - 37. Null.md
+  - 38. Compression.md
+  - 39. Compression, Complexity, and P=NP?.md
