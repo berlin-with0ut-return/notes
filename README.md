@@ -29,7 +29,7 @@ Disclaimer: There are probably many mistakes. Please email me at sherryfansf@ber
 - [25. Shortest Paths](25. Shortest Paths.md)
 - [26. Minimum Spanning Trees, Kruskal's, Prim's](26. Minimum Spanning Trees, Kruskal's, Prim's.md)
 - [27. SWE I](27. SWE I.md)
-- [28. Reductions & Decompositions](28. Reductions & Decompositions.md)
+- [28. Reductions & Decompositions](28. Reductions and Decompositions.md)
 - [29. Basic Sorts](29. Basic Sorts.md)
 - [30. Quick Sort](30. Quick Sort.md)
 - [31. Software Engineering II](31. Software Engineering II.md)
