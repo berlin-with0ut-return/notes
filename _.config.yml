@@ -3,7 +3,6 @@ plugins:
 relative_links:
   enabled: true
   collections: true
-theme: jekyll-theme-minimal
 include:
   - README.md
   - 3. References, Recursion, and Lists.md
